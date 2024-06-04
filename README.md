@@ -1,4 +1,4 @@
-![Computer Engineer](https://www.facebook.com/taskin.mubassir/)
+![Computer Engineer](https://e0.pxfuel.com/wallpapers/760/185/desktop-wallpaper-computer-engineering-science-tech-background-modern-technology.jpg/)
 
 ### Hi there 👋, I'm Taskin Mubassir
 #### Computer Engineer
