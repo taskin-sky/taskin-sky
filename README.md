@@ -1,4 +1,4 @@
-![Computer Engineer](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/131996851_2822744237998593_7511727098700506464_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeG9rEPHjcN3ziTGXdhmTDDyHNQCdmlW7qIc1AJ2aVbuoisLE-HtretkeRTH0ykg6mvrBTFU_r4TryXQMqvApo4B&_nc_ohc=Cm7tw3CjlEQAX8o4zt0&_nc_ht=scontent.fdac5-2.fna&oh=00_AfCtJeEc88yHF8qUzsk0vttjTbxhER3Ur5BijS9ZtbSgwQ&oe=652E1F70)
+![Computer Engineer](https://www.facebook.com/taskin.mubassir/)
 
 ### Hi there 👋, I'm Taskin Mubassir
 #### Computer Engineer
