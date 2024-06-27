@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Taskin Mubassir
 #### Computer Engineer
 
-CSE Graduate from BRAC University. I'm a Software Engineer & Android App Developer. I have a passion for learning and sharing my knowledge with others. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind.
+CSE Graduate from BRAC University. I'm a Software Engineer, Web developer & Android App Developer. I have a passion for learning and sharing my knowledge with others. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind.
 
 Skills: Python / Kotlin / Java / C++ / PHP / JS / HTML / CSS
 
